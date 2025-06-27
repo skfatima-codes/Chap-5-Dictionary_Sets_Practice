@@ -14,5 +14,8 @@
 - Set operations: union, intersection, difference, symmetric difference
 - Set methods: `.add()`, `.remove()`, `.discard()`, `.clear()`, `.copy()`, `.update()`
 
+This folder is part of an ongoing Python practice journey. More problems and methods will be added regularly as learning continues.
+
+
 
 
