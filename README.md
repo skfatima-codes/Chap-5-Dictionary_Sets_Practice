@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##  Topics Covered
 
 ###  Dictionary:
@@ -15,6 +16,7 @@
 - Set methods: `.add()`, `.remove()`, `.discard()`, `.clear()`, `.copy()`, `.update()`
 
 This folder is part of an ongoing Python practice journey. More problems and methods will be added regularly as learning continues.
+
 
 
 
